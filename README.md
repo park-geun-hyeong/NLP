@@ -6,7 +6,7 @@
 <h2>Preprocessing</h2>
 <b>1. Integer_encodig </b><br>
 <b>2. One Hot Encoding </b><br>
-<b>3. Padding </b><br>
+<b>3. Padding </b>
 
 <h2>Count based word expression </h2>
 <b>1. Bag of words </b><br>
