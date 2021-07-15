@@ -4,9 +4,11 @@
 <h4>https://wikidocs.net/22891</h4>
 
 <h2>Preprocessing</h2>
-<h3>text 전처리에 관한 기법</h3>
+<p><b>1. Integer_encodig </b></p>
 
-<p><b>1. Integer_encodig </b><br>
-- text를 토큰화 시키고 각 단어들을 고유한 정수에 mapping하는 과정 </p>
+
+<h2>Count based word expression </h2>
+<p><b>1. Bag of words </b></p>
+<p><b>2. TF-IDF </b></p>
 
 <h3>Text_Classification</h3>
