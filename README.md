@@ -8,7 +8,7 @@
 
 
 <h2>Count based word expression </h2>
-<p><b>1. Bag of words </b></p>
-<p><b>2. TF-IDF </b></p>
+<b>1. Bag of words </b><br>
+<b>2. TF-IDF </b>
 
 <h3>Text_Classification</h3>
