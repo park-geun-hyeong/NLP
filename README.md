@@ -4,21 +4,21 @@
 <h4>https://wikidocs.net/22891</h4>
 
 <h2>Preprocessing</h2>
-- 1. Integer_encodig 
-- 2. One Hot Encoding 
-- 3. Padding 
+- Integer_encodig 
+- One Hot Encoding 
+- Padding 
 
 <h2>Count based word expression </h2>
-- 1. Bag of words 
-- 2. TF-IDF 
+- Bag of words 
+- TF-IDF 
 
 ## Vector Similarity
-- 1. cosine similarity
-- 2. various similarity
+- cosine similarity
+- various similarity
 
 ## Topic Modeling
-- 1. LSA
-- 2. LDA
+- LSA
+- LDA
 
 
 ## Text_Classification
