@@ -12,5 +12,13 @@
 <b>1. Bag of words </b><br>
 <b>2. TF-IDF </b>
 
+## Vector Similarity
+- cosine similarity
+- various similarity
 
-<h2>Text_Classification</h2>
+## Topic Modeling
+- LSA
+- LDA
+
+
+## Text_Classification
