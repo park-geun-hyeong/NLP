@@ -3,12 +3,12 @@
 <h3>블로그를 보며 기초적인 NLP 실습을 진행했던 공간</h3>
 <h4>https://wikidocs.net/22891</h4>
 
-<h2>Preprocessing</h2>
+## Preprocessing
 - Integer_encodig 
 - One Hot Encoding 
 - Padding 
 
-<h2>Count based word expression </h2>
+## Count based word expression 
 - Bag of words 
 - TF-IDF 
 
