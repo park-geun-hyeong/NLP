@@ -12,4 +12,5 @@
 <b>1. Bag of words </b><br>
 <b>2. TF-IDF </b>
 
-<h3>Text_Classification</h3>
+
+<h2>Text_Classification</h2>
